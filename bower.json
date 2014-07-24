@@ -2,7 +2,7 @@
     "name": "jQuery-ieXDomainShunt",
     "version": "1.0.0",
     "description": "IE8 and IE9 XDomain Shunt for jQuery",
-    "main": "shunt.js",
+    "main": "./shunt.js",
     "keywords": [
         "utility",
         "array",
@@ -24,10 +24,5 @@
     },
     "ignore" : [
         ".gitignore"
-    ],
-    "files": [
-        "shunt.js",
-        "ReadMe.md",
-        "LICENSE"
     ]
 }
