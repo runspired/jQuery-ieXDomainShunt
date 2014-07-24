@@ -1,0 +1,33 @@
+{
+    "name": "jQuery-ieXDomainShunt",
+    "version": "1.0.0",
+    "description": "IE8 and IE9 XDomain Shunt for jQuery",
+    "main": "shunt.js",
+    "keywords": [
+        "utility",
+        "array",
+        "string",
+        "function"
+    ],
+    "authors": [{
+        "name": "Chris Thoburn",
+        "email": "runspired@gmail.com",
+        "homepage": "http://runspired.com"
+    }],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/runspired/jQuery-ieXDomainShunt.git"
+    },
+    "license": "UNLICENSE",
+    "dependencies" : {
+        "jQuery" : ">1.9.0"
+    },
+    "ignore" : [
+        ".gitignore"
+    ],
+    "files": [
+        "shunt.js",
+        "ReadMe.md",
+        "LICENSE"
+    ]
+}
