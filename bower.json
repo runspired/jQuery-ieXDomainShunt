@@ -1,6 +1,6 @@
 {
     "name": "jQuery-ieXDomainShunt",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "IE8 and IE9 XDomain Shunt for jQuery",
     "main": "./shunt.js",
     "keywords": [
